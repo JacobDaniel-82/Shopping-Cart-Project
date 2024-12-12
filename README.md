@@ -81,7 +81,7 @@ To run this project locally, follow the steps below:
 
 ## **Live Demo**
 
-You can check out the live demo of the project here: [https://sham330.github.io/eccommerce]
+You can check out the live demo of the project here: https://sham330.github.io/eccommerce
 
 ---
 
