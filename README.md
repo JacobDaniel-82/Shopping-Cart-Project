@@ -57,12 +57,12 @@ To run this project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/shopping-cart.git
+   git clone https://github.com/JacobDaniel-82/Shopping-Cart-Project.git
    ```
 
 2. **Navigate to the project folder**:
    ```bash
-   cd shopping-cart
+   cd Shopping-Cart-Project
    ```
 
 3. **Install dependencies**:
@@ -81,16 +81,7 @@ To run this project locally, follow the steps below:
 
 ## **Live Demo**
 
-You can check out the live demo of the project here: [Insert live demo URL]
-
----
-
-## **Contributors**
-
-This project was created as part of my internship at **iNeuron AI**. Below are the contributors who helped build this application:
-- [Your Name] – Developer and intern at iNeuron AI
-- [Contributor Name 1] – Role (if applicable)
-- [Contributor Name 2] – Role (if applicable)
+You can check out the live demo of the project here: [https://sham330.github.io/eccommerce]
 
 ---
 
@@ -100,4 +91,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-Feel free to modify the template to suit your project and team structure better. Let me know if you need further customization!
